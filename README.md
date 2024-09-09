@@ -1,15 +1,14 @@
-# Profile
-- 이름: 박소미
-- 주 분야: 프론트엔드
-- 주요 스택: 바닐라 자바스크립트, 리액트
+# Introduction
 
-# 나는 어떤 사람인가요?
-- 대학 시절 진행한 팀 프로젝트의 조장 및 구름 kdt 부트캠프 수료 기간 동안 진행한 1,2차 스터디, 두 번의 조별 프로젝트의 조장을 맡아서 할 만큼 리더십 및 원활한 커뮤니케이션에 관심이 많습니다. 동시에 팔로워십의 중요성도 느끼고 있습니다.
-- 구름톤 in 제주, 구름톤챌린지라는 해커톤에 참여를 하면서 겪었던 여러 위기와 극복으로 인해, 함께하는 동료의 가치를 아는 개발자입니다.
-- 협업을 할 때, 이끌어 나가기를 좋아하는 사람입니다. 그리고 어쩌면 당연하게 여기며 넘어갈 수 있는 부분을 그냥 넘어가지 않고, 꼼꼼하게 챙기고 고지하는 사람입니다.
-- 언어나 라이브러리, 프레임워크를 배울 때 공식문서 및 검색을 통해 능동적으로 프로젝트를 해나가며 배우는 것을 선호합니다.
-- 어떤 도구를 선택할 때, 나름의 근거를 가지고 선택하려고 노력합니다.
-- 현 시점에서 가장 최선이라고 생각하는 방향으로 코드의 구조를 개선하려고 노력합니다.
-- 꾸준함을 중요시합니다.
+I am 박소미, a frontend developer aspiring to become a full-fledged engineer. Lately, I've been diving into open-source development and contributing to various projects.
 
+## Open Source Pull Requests
+- [Set $modal-content-color (null value) to --#{$prefix}body-color in _variables.scss](https://github.com/twbs/bootstrap/pull/39977) (Bootstrap)
+- [Resolved issue(#4759) where the MouseWheel event was not being propagated to the ComboBox within the Dialog](https://github.com/shadcn-ui/ui/pull/4780) (ShadCN-UI)
 
+## Library I Built
+### Localstorage Query
+- [npm](https://www.npmjs.com/package/@confidential-nt/localstorage-query)
+- [GitHub](https://github.com/confidential-nt/localstorage-query)
+
+These are some of my contributions on GitHub.
