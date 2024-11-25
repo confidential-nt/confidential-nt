@@ -8,6 +8,7 @@ I am 박소미, a frontend developer aspiring to become a full-fledged engineer.
 
 ### Merged
 - [implement findLastIndex](https://github.com/toss/es-toolkit/pull/512) (toss/es-toolkit)
+- [프로필 수정 페이지에서 별명 수정하는 기능 구현](https://github.com/twinstae/coaching-sospeso/pull/77) (twinstae/coaching-sospeso)
 
 ## Library I Built
 ### Localstorage Query
