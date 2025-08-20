@@ -4,6 +4,7 @@ I am 박소미, a frontend developer aspiring to become a full-fledged engineer.
 
 ## Open Source Pull Requests
 - [Resolved issue(#4759) where the MouseWheel event was not being propagated to the ComboBox within the Dialog](https://github.com/shadcn-ui/ui/pull/4780) (ShadCN-UI)
+- [feat(antd): add v4/v5 compatibility for ButtonGroup component](https://github.com/ukrbublik/react-awesome-query-builder/pull/1290) (react-awesome-query-builder)
 
 ### Merged
 - [Set $modal-content-color (null value) to --#{$prefix}body-color in _variables.scss](https://github.com/twbs/bootstrap/pull/39977) (Bootstrap)
