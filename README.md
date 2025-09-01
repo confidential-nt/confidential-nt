@@ -11,6 +11,7 @@ I am 박소미, a frontend developer aspiring to become a full-fledged engineer.
 - [프로필 수정 페이지에서 별명 수정하는 기능 구현](https://github.com/twinstae/coaching-sospeso/pull/77) (twinstae/coaching-sospeso)
 - [Sospeso Timeline 컴포넌트 구현](https://github.com/twinstae/coaching-sospeso/pull/97) (twinstae/coaching-sospeso)
 - [feat(antd): add v4/v5 compatibility for ButtonGroup component](https://github.com/ukrbublik/react-awesome-query-builder/pull/1290) (react-awesome-query-builder)
+- [Add v4/v5 compatibility for deprecated APIs (FieldDropdown, Autocomplete)](https://github.com/ukrbublik/react-awesome-query-builder/pull/1292) (react-awesome-query-builder)
 
 ## Library I Built
 ### Localstorage Query
